@@ -1,0 +1,12 @@
+pyprind
+python-jsonrpc
+gensim
+selenium
+nltk
+lxml
+torch
+transformers
+datasets
+sentencepiece
+scipy
+scikit-learn
